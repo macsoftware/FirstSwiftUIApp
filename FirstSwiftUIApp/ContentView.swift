@@ -13,7 +13,11 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("Hello SwiftUI!")
+                .font(.title)
+                .foregroundColor(Color.blue)
+                .padding()
+            Text("This is awesome")
         }
         .padding()
     }
