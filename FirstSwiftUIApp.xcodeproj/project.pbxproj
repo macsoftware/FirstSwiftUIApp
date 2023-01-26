@@ -13,6 +13,7 @@
 		886B76402982CBDA00EB1F98 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 886B763F2982CBD900EB1F98 /* Preview Assets.xcassets */; };
 		886B764B2982CEA200EB1F98 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 886B764A2982CEA200EB1F98 /* SecondView.swift */; };
 		886B764D2982D0FB00EB1F98 /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 886B764C2982D0FB00EB1F98 /* ThirdView.swift */; };
+		886B764F2982D2BE00EB1F98 /* FourthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 886B764E2982D2BE00EB1F98 /* FourthView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		886B763F2982CBD900EB1F98 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		886B764A2982CEA200EB1F98 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 		886B764C2982D0FB00EB1F98 /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
+		886B764E2982D2BE00EB1F98 /* FourthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				886B76382982CBD800EB1F98 /* FirstSwiftUIAppApp.swift */,
 				886B764A2982CEA200EB1F98 /* SecondView.swift */,
 				886B764C2982D0FB00EB1F98 /* ThirdView.swift */,
+				886B764E2982D2BE00EB1F98 /* FourthView.swift */,
 				886B763A2982CBD800EB1F98 /* ContentView.swift */,
 				886B763C2982CBD900EB1F98 /* Assets.xcassets */,
 				886B763E2982CBD900EB1F98 /* Preview Content */,
@@ -147,6 +150,7 @@
 				886B764B2982CEA200EB1F98 /* SecondView.swift in Sources */,
 				886B763B2982CBD800EB1F98 /* ContentView.swift in Sources */,
 				886B76392982CBD800EB1F98 /* FirstSwiftUIAppApp.swift in Sources */,
+				886B764F2982D2BE00EB1F98 /* FourthView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
